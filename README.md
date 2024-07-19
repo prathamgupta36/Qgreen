@@ -1,6 +1,8 @@
 # Qgreen
+Womanium Quantum+AI 2024 Project
 
-## Team Formation:
+
+### Team Information:
 Team Member 1:
 - Full Name: Islam Mohammed Elgendy
 - WQ24-xIHRASAKIVibIkw
@@ -16,3 +18,10 @@ Team Member 1:
 Team Member 1:
 - Full Name: Pratham Gupta
 - WQ24-OVJ8pB6MPK8ewKY
+
+
+### Project Solution:
+_Include a comprehensive summary of all important information about your project solution here._
+
+### Project Presentation Deck:
+_Link a 5min. presentation recording or deck here._
