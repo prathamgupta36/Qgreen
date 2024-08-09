@@ -60,8 +60,8 @@ We investigated an approach for detecting desertification using satellite images
 - Paper: [Qgreen Paper](https://github.com/prathamgupta36/Qgreen/blob/main/wq_project_on_climate.pdf)
 
 ### Project Presentation Deck:
-[Presentation Video](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen_video.mp4)
-[Youtube Link to Presentation Video](https://youtu.be/F2UhQ2oUzMQ)
+- [Presentation Video](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen_video.mp4)
+- [Youtube Link to Presentation Video](https://youtu.be/F2UhQ2oUzMQ)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
