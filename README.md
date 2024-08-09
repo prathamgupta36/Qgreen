@@ -54,7 +54,7 @@ Team Member 4:
 #### Files:
 - Presentation PPT: [Qgreen Presentation](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen.pptx)
 - Machine Learning Model: [Model](https://github.com/prathamgupta36/Qgreen/blob/main/model/Model.h5)
-- Paper: [Qgreen Paper]()
+- Paper: [Qgreen Paper](https://github.com/prathamgupta36/Qgreen/blob/main/wq_project_on_climate.pdf)
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
