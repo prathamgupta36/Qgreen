@@ -56,6 +56,7 @@ We investigated an approach for detecting desertification using satellite images
 
 #### Files:
 - Presentation PPT: [Qgreen Presentation](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen.pptx)
+- Presentation PDF: [Qgreen Presentation PDF](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen_Presentation.pdf)
 - Machine Learning Model: [Model](https://github.com/prathamgupta36/Qgreen/blob/main/model/Model.h5)
 - Paper: [Qgreen Paper](https://github.com/prathamgupta36/Qgreen/blob/main/wq_project_on_climate.pdf)
 
