@@ -1,4 +1,5 @@
 # Quantum-AI-for-Climate
+# Project Name: Qgreen
 Womanium Quantum+AI 2024 Projects
 
 **Please review the participation guidelines [here](https://github.com/womanium-quantum/Quantum-AI-2024) before starting the project.**
