@@ -20,9 +20,9 @@ Team Member 4:
 - WQ24-OVJ8pB6MPK8ewKY
 
 ### Project Files
-Presentation PPT: [Qgreen Presentation](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen.pptx)
-Machine Learning Model: [Model](https://github.com/prathamgupta36/Qgreen/blob/main/model/Model.h5)
-Paper: [Qgreen Paper]()
+- Presentation PPT: [Qgreen Presentation](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen.pptx)
+- Machine Learning Model: [Model](https://github.com/prathamgupta36/Qgreen/blob/main/model/Model.h5)
+- Paper: [Qgreen Paper]()
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
