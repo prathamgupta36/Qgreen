@@ -52,13 +52,15 @@ Team Member 4:
 
 ### Project Solution:
 
+We investigated an approach for detecting desertification using satellite images and advanced machine learning techniques that harness image classification. We have presented a deep learning model based on convolutional neural networks for automatically identifying patterns and features indicative of desertification processes, such as vegetation loss, soil degradation, and changes in land cover. In this respect, our study is on a holistic dataset of high-resolution satellite images from multiple sources— different geographical areas subject to desertification.
+
 #### Files:
 - Presentation PPT: [Qgreen Presentation](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen.pptx)
 - Machine Learning Model: [Model](https://github.com/prathamgupta36/Qgreen/blob/main/model/Model.h5)
 - Paper: [Qgreen Paper](https://github.com/prathamgupta36/Qgreen/blob/main/wq_project_on_climate.pdf)
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+[Presentation Video](https://github.com/prathamgupta36/Qgreen/blob/main/Qgreen_video.mp4)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
